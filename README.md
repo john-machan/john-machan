@@ -6,7 +6,10 @@ I write and design technical documentation, and I'm interested in how docs
 change when the primary reader is a model rather than a person: structure,
 retrievability, and keeping source material accurate enough to be trusted.
 
-### Elsewhere
+### 💼 Work
 
-- 💼 Work (Chargebee): [@cb-machan](https://github.com/cb-machan)
-- 💬 LinkedIn: [in/johnmachan](https://www.linkedin.com/in/johnmachan)
+Chargebee: [@cb-machan](https://github.com/cb-machan)
+
+### 💬 Social
+
+LinkedIn: [in/johnmachan](https://www.linkedin.com/in/johnmachan)
